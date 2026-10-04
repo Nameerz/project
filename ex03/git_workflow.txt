@@ -1,0 +1,6 @@
+1. Edit README.md
+2. Check the repository: git status
+3. Stage the README: git add README.md
+4. Commit the changes: git commit -m "Add README documentation"
+5. Check the commit history: git log
+6. Push the commit to GitHub: git push
