@@ -1,0 +1,40 @@
+/home/nzawaide/dev-workspace:
+total 4
+drwxr-xr-x  5 nzawaide _amman   51 Oct  1 11:40 .
+drwx------ 17 nzawaide _amman 4096 Oct  1 11:58 ..
+drwxr-xr-x  2 nzawaide _amman    6 Oct  1 11:40 archives
+drwxr-xr-x  3 nzawaide _amman   17 Oct  1 11:41 projects
+drwxr-xr-x  2 nzawaide _amman    6 Oct  1 11:40 tools
+
+/home/nzawaide/dev-workspace/archives:
+total 0
+drwxr-xr-x 2 nzawaide _amman  6 Oct  1 11:40 .
+drwxr-xr-x 5 nzawaide _amman 51 Oct  1 11:40 ..
+
+/home/nzawaide/dev-workspace/projects:
+total 0
+drwxr-xr-x 3 nzawaide _amman 17 Oct  1 11:41 .
+drwxr-xr-x 5 nzawaide _amman 51 Oct  1 11:40 ..
+drwxr-xr-x 4 nzawaide _amman 37 Oct  1 11:41 web
+
+/home/nzawaide/dev-workspace/projects/web:
+total 0
+drwxr-xr-x 4 nzawaide _amman 37 Oct  1 11:41 .
+drwxr-xr-x 3 nzawaide _amman 17 Oct  1 11:41 ..
+drwxr-xr-x 2 nzawaide _amman  6 Oct  1 11:41 backend
+drwxr-xr-x 2 nzawaide _amman  6 Oct  1 11:41 frontend
+
+/home/nzawaide/dev-workspace/projects/web/backend:
+total 0
+drwxr-xr-x 2 nzawaide _amman  6 Oct  1 11:41 .
+drwxr-xr-x 4 nzawaide _amman 37 Oct  1 11:41 ..
+
+/home/nzawaide/dev-workspace/projects/web/frontend:
+total 0
+drwxr-xr-x 2 nzawaide _amman  6 Oct  1 11:41 .
+drwxr-xr-x 4 nzawaide _amman 37 Oct  1 11:41 ..
+
+/home/nzawaide/dev-workspace/tools:
+total 0
+drwxr-xr-x 2 nzawaide _amman  6 Oct  1 11:40 .
+drwxr-xr-x 5 nzawaide _amman 51 Oct  1 11:40 ..
