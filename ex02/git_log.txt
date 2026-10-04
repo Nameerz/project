@@ -1,0 +1,5 @@
+commit 303263529c6734073fe9ec492ef624897689b13f
+Author: Nameerz <nameerzawaideh2003@gmail.com>
+Date:   Sun Oct 4 10:55:50 2026 +0300
+
+    add hello.txt
